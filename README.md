@@ -97,27 +97,10 @@ The system also applies temporal smoothing using recent emotional history to imp
 * DistilBERT
 
 
-
-# 📱 Screens
-
-* Splash Screen
-* Mode Selection
-* Employee Dashboard
-* HR Dashboard
-* Insights Screen
-* Anonymous Letter System
-
-
-
-# 📸 Screenshots
-
-(Add screenshots here)
-
-
-
 # 🎥 Demo
 
-(Add demo video link here)
+🔗 Watch the demo on LinkedIn:  
 
+https://www.linkedin.com/posts/maryam-khmila-5011132b0_ai-nlp-flutter-ugcPost-7462963894182080513-N_EH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAErEdBEBmg0zraDrtmro6_IiLernnl7tex8
 
 
