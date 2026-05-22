@@ -1,0 +1,7 @@
+venv/
+build/
+.dart_tool/
+__pycache__/
+*.pyc
+emotion.db
+*.apk
