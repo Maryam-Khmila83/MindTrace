@@ -1,6 +1,6 @@
 # MindTrace — AI-Powered Employee Burnout Detection System
 
-## 🧠 Overview
+## Overview
 
 MindTrace is an AI-powered mobile application designed to monitor employee emotional wellbeing and burnout risk in workplace environments.
 
@@ -21,10 +21,17 @@ The project includes:
 * 📊 HR analytics dashboard
 * 💌 Anonymous employee feedback system
 
-# ✨ Features
+## 🎥 Demo
+
+🔗 Watch the demo on LinkedIn:  
+
+https://www.linkedin.com/posts/maryam-khmila-5011132b0_ai-nlp-flutter-ugcPost-7462963894182080513-N_EH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAErEdBEBmg0zraDrtmro6_IiLernnl7tex8
 
 
-## 👤 Employee Mode
+# Features
+
+
+## Employee Mode
 
 * Emotion analysis from text
 * Burnout risk estimation
@@ -34,7 +41,7 @@ The project includes:
 * Team selection system
 
 
-## 🧑‍💼 HR Dashboard
+## HR Dashboard
 
 * Team-based analytics
 * Burnout trend visualization
@@ -43,7 +50,7 @@ The project includes:
 
 
 
-# 🤖 AI Architecture
+# AI Architecture
 
 MindTrace uses two separate NLP models:
 
@@ -77,7 +84,7 @@ The backend combines outputs from both models using custom reasoning logic to ge
 The system also applies temporal smoothing using recent emotional history to improve stability and realism of predictions.
 
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ## Frontend
 
@@ -97,10 +104,5 @@ The system also applies temporal smoothing using recent emotional history to imp
 * DistilBERT
 
 
-# 🎥 Demo
-
-🔗 Watch the demo on LinkedIn:  
-
-https://www.linkedin.com/posts/maryam-khmila-5011132b0_ai-nlp-flutter-ugcPost-7462963894182080513-N_EH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAErEdBEBmg0zraDrtmro6_IiLernnl7tex8
 
 
