@@ -15,11 +15,11 @@ to generate meaningful wellness insights for both employees and HR teams.
 
 The project includes:
 
-* 📱 Flutter mobile app
-* ⚡ FastAPI backend
-* 🤖 Custom NLP models
-* 📊 HR analytics dashboard
-* 💌 Anonymous employee feedback system
+* Flutter mobile app
+* FastAPI backend
+* Custom NLP models
+* HR analytics dashboard
+* Anonymous employee feedback system
 
 ## 🎥 Demo
 
